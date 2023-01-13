@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> This is a simple website I made this with HTMl & CSS. I completed this website by using simple HTML & CSS code lines. I used "h1" tag to create the "Hello Microverse!" text and gave a good color by using CSS. I have got great knowledge after completed this simple webpage
+> This is my Portfolio page I made this with HTMl & CSS. I completed this website by using simple HTML & CSS line. I used _header, image, text, menu-bar & icons_ in by Html & _colors, sizes, margins, & paddings_ ,etc I used css for stylings.
 
 **[Hello Microverse]** This is my first project.
 
@@ -100,9 +100,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Html structure with images, icons, header & menu-bar, etc]**
+- **[Styling css with colors, paddings, margins & sizes, etc]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,14 +221,6 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -265,7 +256,7 @@ I would like to thank...
 
 ## Preview
 <div align="center">
- <img src="https://lh3.googleusercontent.com/fife/AAbDypCuC9emFacRVh-X-Rtipas4pwJzQrx10Ti3RejRLtMqme0W4OthclViiUk4zoycgnTkmAFIJbMcM5UH0Fga2J2_5uso7jTzT8C8oiAhB1vWQfmtLknXQSDaUGe48-bADdZNqfjseUw5mCxEaz7t6Ed0_i-YrjJFpDcVuyVEg5HI5GQc0V5BsDJrKceU3oGQlYJG2AGpALqAPa7reyLEWxAIGPXol7uCLXkAzjkeEZyoAe1uUgpZ_lUNdR8FjKmBzXecffCBMlGt4o4EGgsUnRMkX87-9XPNT0_WyBiUG6J9ZQyTpJGYsVfZJyoNj2ivPnjCQdIt3OJlgb3nqExQO5MV8h0Y6T07z4KhKiPp5_aMGE_Oq8QSsy53dGkTUBKvpxeCEb8n5OFIX3RYryzsMFtG_uCOfy6_IyucJ0ybnQDyWkxlzXFB3YgiYw_HUoLZ2BNpyNC95v0NquZvTWmv-7qH-b9r8fsFhOrv9XB-GPDb82ACkKv85goErSNGB83NsdWy_ROhNm2aG-tQWUDiotfGlP40EFCY4zFHDN1piDpozh37rdZrv-YU48sYS3wN4wZLdeTltPaZjl8f4CRMk6eq5XkjCgZMtMuKiYGXmeSPcgIUM99oYVN3KQTd7aZ-pwbXYqcMgMO5Fp-qWB4jeZoVfRU4hrkOQ-UEaYp8gpqLeQTJrzI9hOPb1BFxfpMqUC3esvSXSOnOUmw_mb09l6fxYplbxNuz1dt0lquqIc1B9aCpIYZLjYLXdwmj84UIqWlizW9nB0zCjqSJqBqzOlQCr9TAHSKICGakQAg6HPVRHFQEj1hi5kIn8lP51Q3b_UOBpLVpeIosW0Zu1aCxWxieAnnD8qUc14w9AsBvrJKqq2I44h-OsM6VCRahs_p1eaoC7HqwXpmuNu8ycyMBe7MdaSc8ecqrhPeRjIzqO6Z7D1k2o0l-kQrehK6ViUwOVT1kPh86GjJgITEMKUTOrBuqNLOL3erJxkJJZ1Ztm0NytL7La78LgDFakmAsZzwG-WMj8S_Tc2xQNnbluaV19W6W1uq8g7eR0pHcPX1E-Dn4sDaObcLgttlsuJamGmPJreYXHAXH4S7roFl05_txgdIC_oYGRGTT4kRWDvxB3j3-3bsTPiyCdwXps4m3WjnGCOrhiInLU890K7Ug4G6kfi8vhDrsdJCWd5IrzygmZFS0piyenN0xQulyogI3uo00q-YGD1G319aNbo1X8pDVfLnrY8-qXEyFMRCRL81LoiG5wCQxQOiAgIAogV8aeWj2EzHVE1iMxR28ruUe76Me8w0vY2NNJj1UBH9Ne4FOBJ_k9ptV4iYSK-7ofaOL7frQ0FsXlxN_rLYJwcUlB7S_BRHhb-XrmzWwAbb0BhQ2bPkgtU49MhRKztuKqYD7zj0xyN7_rZMEi0LgeBD4QoDa7ziYU0vkjGkiBVUNuZ30VA3c9ojSYyoRk2jqlSsT17gc0NPHXoUqGF8QOQQ9kHI=w1366-h617" alt="My project Preview">
+ <img src="https://lh3.googleusercontent.com/fife/AAbDypB7vIy9eS-KgbCYzr_yirhTV7GeTLGB7Kv4j6nYS-KAoGL-J3UikhSQwPioM45KaOO0USLgtGTa2juqNiUfzOu2A4NZrvOQH-_8DPPOOA5TtH94LWdAc5sna0m0NfPu-ITyxJ2MFlsVn_tsDLu0JQIEQSAD3KZ6Y1r1or1LtLbslMY1vSNZ_Bv1I3lj_ZjIIcuU9bFAIIjlFgkd3dBkzRbx-ORSqyj6AmCezzR0Md_LM__2u0IYoixmqc6ul-wEVMLuzTfvjd5GKx_JP8BUxxEvUQaXpGXmQKXvjF4hskgUg4vMOcNEozV4KGWj2EBJSNScke-6Z9vSspOOxfwj9laN_udnsV5HXEspcqMD_iSkOqmxik3uKhPBQ_KqbZeyUY15WWkxmEZOg7JypGjLotOfmmCo_OFrcDVuGp_bDgXL1EqkXeJpIpRs_3E2FIw1pzPwhnIwNT2XaT06IzHg1PxXxTtlhUF6uQbgXPDXRx5YjRN5YKpSe97sL_Pz7wtf-cgCoXwb9_sLDOuC10YO-qbMPQcFvrAD4iX9haxbJBkHTBZbBISn8rZX_X8RIBF4QCEw7Hsgog1xfrmeS9XsWc5wc1u987-rMhkR4TGJsSwX-x_ad2W-RIOcTFDcrGbS29bfMuQs_tWZTOvSvLlMIRrtCoUY5pesSjnXif_cH2FCN5IDuX5aSM0fUmkNfXTw3FOoBo9T6mC73n-q9pxVEHmpG79tkEmwjvdlGZieqWD1qKHxSSk8hvdd3qPuJF4Vkj7Th9QSuJFrIreRsczxaCI4vERnXr5ELw03rYTU3MxF0BeT1iKj2Tv-PYfNLFtanGDFQIuHSrLuepDG6STQ0m7RIHJfFWaAM4ep7gUV9VIguqNkX1rK8R12Usbt5BUiVfvH69msFLYHXPvk1oC0Qu_ICnH4oWtcgKqyJ0DqUTD190losXDrrQhKnD5ZNNamU6S7gohyMO_I93YGidAsv1a3ZO5W87ufMUKsXEm72dyvh66ziQEUP289ZtY7zev1ahz2wmpFEeOWEuqiNP0y0IsGbhTmwUPov7T9SPe23s4Zp50p75D0Eg86nHU92Rmqt9EXTuylhcPEnLguluAayh7mdJPTLXQz_vu2_UOfssCF11sWNcRFiu8KRSDXhMA9FANGLeyt4hPs8tKxP9H0XDTN0Z1QEH8vlwCjE6cepTB_QqhQBk8W_om12k5I7Wq7acXIXbqfZqg2dqS4_DcdkQkq35cscQ8r7rXo9wkQHHdSedOSkLphldoAA9aphzQ71vGxMMX2nUK_P2MZfPQS8-yVwp94FQKWr4z7SBykW4pg-ZX0j1H8a9GYlogG1GcIyVIR_hPaRTo_ogIWcPpB3QWx4R05NVPVHiYnDrvqE6zgJzs8WhpeTQhegfi2x1fcIC2G1TTmwfEjXwkm-xjtk9YZ5ujP1OvrG72mZ9eXM1JNus_fxEbh_I2XfQyG3Q9T2YgorxC0eY0Fjqhn8Vg=w1366-h617" alt="My project Preview">
   </div>
 
 <!-- LICENSE -->
